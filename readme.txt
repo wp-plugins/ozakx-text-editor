@@ -1,23 +1,37 @@
-Presenting a plugin which will help you to create links/give styles/tooltips in the whole Wordpress Blog.
+=== Ozakx Text Editor ===
+Contributors: Anurag Bhateja
+Tags: Tooltips, Styles, Links
+Tested up to: 2.3.3
 
-Name: Ozakx Text Editor
 
-Version: 1.0
+Adds a required style/link/tooltip to your WordPress blog. Visit the <a href="http://anuragbhateja.com/wordpress/ozakx.test-editor.html">Ozakx Tect Editor Page</a> for support.
 
-Author Name: Anurag Bhateja
+== Description ==
 
-Author URL: http://www.anuragbhateja.com
+A plugin which will help you to create links/give styles/tooltips in the whole Wordpress Blog.
 
-Plugin URL: http://www.anuragbhateja.com/wordpress/ozakx-text-editor.html
+== Installation ==
 
-Remember:
+After you've downloaded and extracted the files:
 
-1. It is case sensitive. It is made like this to Avoid confliction with image names in post. If you have added image with name ipod.jpg and make link in post like with Ipod or iPod the image link will not get disturbed.
-2. A little knowledge of HTML is required.
-3. Please report if find any bugs.
+1. Upload the ozakx-text-editor.php to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Edit Plugin to activate changes.
 
-Link: OZAKX Text Editor >> Right Click >> Save Target As
+* A little HTML knowledge is required.
 
-To use >> Upload ozakx-text-editor.php to you wp-content/plugins folder >> Go to Admin section >> Plugins >> Activate
 
-To Add/Edit Links >> Admin sections >> Plugins >> Plugin Editor >> “Ozakx Text Editor” and follow the instructions given in it.
+== Frequently Asked Questions ==
+
+= Why should I use this plugin? =
+
+It makes it easy to add tooltips, links styles etc to whole blog without any need to change the post/page.
+
+= Does it work for WordPress version x.x.x? =
+
+I have only tested this plugin on WordPress 2.3 to 2.3.3, however it should (in theory) work in WordPress 2.0+. Please let me know if you successfully test it on another version of WordPress.
+
+== History ==
+
+Version 1.0: Initial plugin design<br />
+
